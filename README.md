@@ -64,7 +64,7 @@ Normal text u/<unicode>/ more normal text
 
 ## Installation
 
-1. Download the zip from releases.
+1. Download the zip from [releases](https://github.com/coljac/obsidian-sitelen-pona/releases).
 2. Unzip into your Obsidian vault's `.obsidian/plugins` folder.
 3. Reload Obsidian.
 4. Enable the plugin in Obsidian settings.
