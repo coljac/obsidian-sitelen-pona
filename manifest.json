@@ -1,0 +1,10 @@
+{
+	"id": "sitelen-pona",
+	"name": "sitelen pona",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Renders sitelen pona blocks with a sitelen pona font.",
+	"author": "jan Colin (Colin Jacobs)",
+	"authorUrl": "https://github.com/coljac",
+	"isDesktopOnly": true
+}
