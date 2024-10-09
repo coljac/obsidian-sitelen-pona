@@ -5,9 +5,11 @@ This plugin adds support for rendering Sitelen Pona (a writing system for the co
 All credit to Jack Humbert for the great open source [sitelen-pona-pona](https://jackhumbert.github.io/sitelen-pona-pona/) font included here.
 
 **Edit mode:**
+
 ![Edit mode](editor.png)
 
 **Preview mode:**
+
 ![Preview mode](previewmode.png)
 
 ## Features
